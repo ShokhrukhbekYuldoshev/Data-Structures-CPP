@@ -5,7 +5,7 @@ A linked list is a fundamental data structure that represents a sequence of elem
 ## Overview
 
 A linked list consists of a series of nodes, where each node contains a value and a pointer/reference to the next node in the list. The first node is called the head, and the last node points to null, indicating the end of the list. Linked lists can be singly linked, where each node only points to the next node, or doubly linked, where each node points to both the next and previous nodes.
-
+![linklistimg](https://prepbytes-misc-images.s3.ap-south-1.amazonaws.com/assets/1681801658710-1%20%2820%29.png)
 ## Key Features
 
 -   **Dynamic Size**: Linked lists can grow or shrink dynamically as elements are added or removed, making them suitable for scenarios where the size is unknown or may change over time.
